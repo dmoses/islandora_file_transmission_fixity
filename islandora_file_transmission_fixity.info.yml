@@ -1,0 +1,8 @@
+name: 'Islandora File Transmission Fixity'
+type: module
+description: 'Verifies checksums on uploaded files'
+core_version_requirement: ^8 || ^9
+package: 'Islandora'
+dependencies:
+  - islandora
+  - filehash
