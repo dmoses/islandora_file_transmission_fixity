@@ -22,3 +22,8 @@ on as Windows machine it's `CertUtil -hashfile <path to file> SHA1`
 
 I recommend the [Read only File Widget](https://www.drupal.org/project/readonly_field_widget)
 to display `field_actual-checksum` but its not necessary.
+
+## Credits
+
+This module is extracted from the [Islandora RDM Transmission Fixity module](https://github.com/roblib/islandora_rdm/tree/8.x-1.x/islandora_rdm_file_transmission_fixity) 
+so that it can be used as a stand-alone module. Original module created with the support of CANARIE grant funding by the team at Robertson Library, University of PEI.
